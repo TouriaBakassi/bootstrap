@@ -1,0 +1,16 @@
+footer>.bottom{
+    
+        position: fixed;
+        bottom: 50px;
+        right: 50px;
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        background-color: #64a7c5;
+        color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-decoration: none;
+        box-shadow: 1px 1px 5px gray;
+      }
